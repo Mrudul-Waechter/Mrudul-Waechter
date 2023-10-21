@@ -7,7 +7,7 @@
 <h2> :page_with_curl: Certifications </h2>
 
 - [CompTIA Security+](https://imgur.com/a/SSZQ7CE)
-- [Google Cybersecurity certificate](linkedin.com/in/mrudulwaechter/details/certifications/edit/forms/385943620/?profileFormEntryPoint=PROFILE_SECTION)
+- [Google Cybersecurity certificate](https://coursera.org/share/2ab59036896ffd7ec2a29593801aa946)
   
 
 <h2> 🤳 Connect with me:</h2>
