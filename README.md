@@ -4,9 +4,14 @@
  <ins>SIEM Project (Azur Sentinel)</ins>
 - [Mapping Failed RDP to IP Geolocation Information](https://github.com/Mrudul-Waechter/Sentinel-Lab)
 <br />
-<ins>Linux</ins>
+<ins>Linux Lab</ins>
 
-- [Installing Kali Linux](https://github.com/Mrudul-Waechter/KaliLinuxInstall)
+- [Installing Kali Linux](https://github.com/Mrudul-Waechter/KaliLinuxInstall)-Coming Soon
+
+<br />
+<ins>Powershell</ins>
+
+- Creating a Simple Home Lab with Active Directory on Oracle VirtualBox: Adding Users Using PowerShell-Coming Soon!
 
 
 
