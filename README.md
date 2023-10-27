@@ -6,7 +6,7 @@
 <br />
 <ins>Linux Lab</ins>
 
-- [Installing Kali Linux](https://github.com/Mrudul-Waechter/KaliLinuxInstall)-Coming Soon
+- [Installing Kali Linux](https://github.com/Mrudul-Waechter/KaliLinuxInstall)-Coming Soon!
 
 <br />
 <ins>Powershell</ins>
