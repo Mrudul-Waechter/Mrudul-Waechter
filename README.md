@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mrudul "Em"! <br/><a href="https://github.com/Mrudul-Waechter"> <a href="https://www.linkedin.com/in/mrudulwaechter/">Experienced BI Analyst Transitioning to Cybersecurity</a>
+<h1>Hi, I'm Mrudul "Em"! <br/><a href="https://github.com/Mrudul-Waechter"> <a href="https://www.linkedin.com/in/mrudulwaechter/">Experienced FP&A Analyst passionate about OpSec and Cybersecurity</a>
 <h2>:woman_technologist: Cybersecurity Projects:</h2>
   
  <ins>SIEM Project (Azur Sentinel)</ins>
