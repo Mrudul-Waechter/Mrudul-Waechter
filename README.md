@@ -4,7 +4,6 @@
  <ins>SIEM Project (Azur Sentinel)</ins>
 - [Mapping Failed RDP to IP Geolocation Information](https://github.com/Mrudul-Waechter/Sentinel-Lab)
 <br />
-<ins>Linux Lab</ins>
 
 <br />
 <ins>Powershell</ins>
